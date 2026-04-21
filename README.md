@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Friends Square Restaurant Website
 
-TODO: Document your project here
+This is the website for Friends Square Restaurant in Dinajpur, Bangladesh.
